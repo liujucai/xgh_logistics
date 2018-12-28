@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-module
+  type="WEB"
+  name="xgh_logistics"
+  id="myeclipse.1495791527539"
+  context-root="/xgh_logistics"
+  j2ee-spec="6.0"
+  archive="xgh_logistics.war">
+  <attributes>
+    <attribute name="webrootdir" value="WebRoot" />
+  </attributes>
+</project-module>
+
